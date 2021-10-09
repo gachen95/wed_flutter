@@ -1,6 +1,6 @@
 # wed_flutter
 
-A start project is used to learn flutter.
+A start project is used to learn flutter. It uses getx to manage routes and states.
 
 
 ## Flutter Version - 2.5.1
