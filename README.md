@@ -21,7 +21,7 @@ Tools • Dart 2.14.2
 
 ## Demo  
 
-![Wed](demo/demo.gif =250x)
+<img src="demo/demo.gif" width="250">
 
 ## Thanks
 
