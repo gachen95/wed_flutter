@@ -21,7 +21,7 @@ Tools • Dart 2.14.2
 
 ## Demo  
 
-![Wed](demo/demo.gif)
+![Wed](demo/demo.gif =250x)
 
 ## Thanks
 
